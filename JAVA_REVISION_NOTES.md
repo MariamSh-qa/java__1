@@ -25,8 +25,8 @@ Java has 8 primitive data types:
 
   Type        What it stores        Example
   ----------- --------------------- --------------------------
-  `byte`      Small whole numbers   `byte age = 20;`
-  `short`     Whole numbers         `short number = 300;`
+ - `byte`      Small whole numbers   `byte age = 20;`
+ - `short`     Whole numbers         `short number = 300;`
   `int`       Whole numbers         `int age = 24;`
   `long`      Large whole numbers   `long number = 10000L;`
   `float`     Decimal numbers       `float price = 5.7f;`
