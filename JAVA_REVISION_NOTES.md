@@ -218,12 +218,3 @@ Use this checklist to track your understanding:
 
 ------------------------------------------------------------------------
 
-## What to master first
-
-Do not rush into advanced Java yet. First, become confident with
-everything in these seven files. Focus on explaining each concept in
-your own words and predicting the output of small code examples.
-
-The seven files discussed cover primitive types, variables, operators,
-increment/decrement, Boolean values and characters. They do not yet
-demonstrate loops, arrays, `if-else` or `switch` in these seven files.
