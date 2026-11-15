@@ -117,10 +117,10 @@ System.out.println(age); // 7
 
   Operator   Meaning
   ---------- --------------------------------------------
-  `a++`      Use the current value, then increase by 1.
-  `++a`      Increase by 1 first, then use the value.
-  `a--`      Use the current value, then decrease by 1.
-  `--a`      Decrease by 1 first, then use the value.
+-  `a++`      Use the current value, then increase by 1.
+-  `++a`      Increase by 1 first, then use the value.
+-  `a--`      Use the current value, then decrease by 1.
+-  `--a`      Decrease by 1 first, then use the value.
 
 Example:
 
