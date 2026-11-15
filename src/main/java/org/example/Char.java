@@ -6,5 +6,6 @@ public class Char {
         char symbol2 = 'b';
 
         System.out.println(symbol + symbol2);
+        System.out.println( "a"  +symbol+symbol2);
     }
 }
