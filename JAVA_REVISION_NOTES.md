@@ -27,12 +27,12 @@ Java has 8 primitive data types:
   ----------- --------------------- --------------------------
  - `byte`      Small whole numbers   `byte age = 20;`
  - `short`     Whole numbers         `short number = 300;`
-  `int`       Whole numbers         `int age = 24;`
-  `long`      Large whole numbers   `long number = 10000L;`
-  `float`     Decimal numbers       `float price = 5.7f;`
-  `double`    Decimal numbers       `double price = 5.7;`
-  `boolean`   True or false         `boolean active = true;`
-  `char`      One character         `char grade = 'A';`
+ - `int`       Whole numbers         `int age = 24;`
+ - `long`      Large whole numbers   `long number = 10000L;`
+ - `float`     Decimal numbers       `float price = 5.7f;`
+ - `double`    Decimal numbers       `double price = 5.7;`
+ - `boolean`   True or false         `boolean active = true;`
+ - `char`      One character         `char grade = 'A';`
 
 ### Remember
 
@@ -69,11 +69,11 @@ int age = 5;
 
   Operator   Meaning          Example
   ---------- ---------------- --------------------------------
-  `+`        Addition         `7 + 3 = 10`
-  `-`        Subtraction      `7 - 3 = 4`
-  `*`        Multiplication   `7 * 3 = 21`
-  `/`        Division         `7 / 3 = 2` (integer division)
-  `%`        Remainder        `7 % 3 = 1`
+-  `+`        Addition         `7 + 3 = 10`
+-  `-`        Subtraction      `7 - 3 = 4`
+-  `*`        Multiplication   `7 * 3 = 21`
+-  `/`        Division         `7 / 3 = 2` (integer division)
+-  `%`        Remainder        `7 % 3 = 1`
 
 ### Integer division vs decimal division
 
@@ -96,11 +96,11 @@ These operators update a variable using its current value.
 
   Operator   Equivalent
   ---------- ---------------------
-  `+=`       `age = age + value`
-  `-=`       `age = age - value`
-  `*=`       `age = age * value`
-  `/=`       `age = age / value`
-  `%=`       `age = age % value`
+-  `+=`       `age = age + value`
+-  `-=`       `age = age - value`
+-  `*=`       `age = age * value`
+-  `/=`       `age = age / value`
+-  `%=`       `age = age % value`
 
 Example:
 
@@ -140,12 +140,12 @@ System.out.println(++a); // 7
 
   Operator   Meaning
   ---------- --------------------------
-  `==`       Equal to
-  `!=`       Not equal to
-  `>`        Greater than
-  `<`        Less than
-  `>=`       Greater than or equal to
-  `<=`       Less than or equal to
+ - `==`       Equal to
+ - `!=`       Not equal to
+ - `>`        Greater than
+ - `<`        Less than
+ - `>=`       Greater than or equal to
+ - `<=`       Less than or equal to
 
 Example:
 
