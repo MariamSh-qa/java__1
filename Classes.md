@@ -3,6 +3,7 @@ Classes in java:
 1. String - class
 2. Math - class
 3. Scanner - class
+4. Array - class
 
 
 Primitive data types: 
